@@ -8,7 +8,7 @@
     "url": "https://github.com/coligo-io/notes-app-vuejs-vuex.git"
   },
   "scripts": {
-    "dev": "webpack-dev-server --inline --hot --open --port 7465",
+    "start": "webpack-dev-server --inline --hot --open --port 7465",
     "build": "webpack -p"
   },
   "keywords": [
